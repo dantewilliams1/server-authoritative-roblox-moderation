@@ -57,3 +57,7 @@ This repository contains sanitized portfolio code. Private webhook URLs, product
 ## Portfolio Note
 
 This project is a sanitized version of a production moderation system built for Hoop Central 6. It is intended to demonstrate backend architecture, server-authoritative security, DataStore persistence, cross-server messaging, and audit logging. Private production values and sensitive game logic have been removed.
+
+## System Architecture
+
+![Architecture Diagram](assets/architecture.png)
